@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas
+pyarrow
+xgboost==3.2.0
+catboost
+scipy
+matplotlib
+seaborn
+jupyter
+ipython
+python-docx==1.2.0
